@@ -1,4 +1,12 @@
 /* Notas importantes
+GIT: Se hacen cambios en visual Studio
+en la terminal de VS escribir: git status   .... muestra los cambios realizados en rojo
+para agrear la toda la informacion (cambios) en la misma terminar se escribe: git add .
+para corroborar que fueron agregados escribor: gir status      .... los cambios deben aparecer en verde
+para poner de referencia : git commit -m "los cambios realizados"
+para subir la info a GitHub: git push     .... y los cambios ya deben visualizarse en GitHub
+
+
 -Se debe de marcar primero la carpeta y despues el archivo.... 
                <script src="01-tipos/06-objetos.js"></script>
 -Duplicar lineas: Shift+Alt+abajo
